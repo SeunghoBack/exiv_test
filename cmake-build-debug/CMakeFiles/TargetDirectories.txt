@@ -1,0 +1,3 @@
+/home/nearthlab/test_cpp/exiv_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nearthlab/test_cpp/exiv_test/cmake-build-debug/CMakeFiles/exiv_test.dir
+/home/nearthlab/test_cpp/exiv_test/cmake-build-debug/CMakeFiles/edit_cache.dir

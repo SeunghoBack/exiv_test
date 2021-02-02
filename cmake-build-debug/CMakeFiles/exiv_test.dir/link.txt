@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/exiv_test.dir/exif.cpp.o  -o exiv_test  -L/home/nearthlab/exiv2/lib -Wl,-rpath,/home/nearthlab/exiv2/lib -lexiv2 
